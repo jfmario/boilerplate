@@ -1,3 +1,8 @@
 **/*~
 .git*
 **/.git*
+**/.c9/*
+
+# Node Projects
+
+**node_modules/*
