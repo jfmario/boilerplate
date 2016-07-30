@@ -3,6 +3,10 @@
 **/.git*
 **/.c9/*
 
+# Java Projects
+
+**/*.class
+
 # Node Projects
 
 **node_modules/*
